@@ -1,0 +1,19 @@
+{
+    "name": "dagang007/click-yan-zheng",
+    "description": "clickable yan zheng ma",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John",
+            "email": "john@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+     "autoload": {
+        "psr-4": {
+            "clickYanZHeng\\src\\": "src"
+        }
+    }
+}

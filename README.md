@@ -1,5 +1,5 @@
 # click-yan-zheng
-这是一个 B/S 结构的中文验证码插件，使用者免键盘输入，直接点击即可进行验证
+这是一个 B/S 结构的中文验证码组件，使用者免键盘输入，直接点击即可进行验证
  
 # USAGE
 step 1) composer create-project dagang007/click-yan-zheng   <br/>

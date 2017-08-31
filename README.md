@@ -3,14 +3,14 @@
  
 # USAGE
 step 1) composer require dagang007/click-yan-zheng   <br/>
-step 2) implement 3 methods    <br/>
+step 2) implement 3 actions    <br/>
 step 3) include .js   <br/>
 step 4) initialize a variable   <br/>   
 var clickYanZHeng = {   
 	id : 'Ya',  //clickable element   
-	urlInit : "/index/index/ver",	// method url  return verify->chars()    
-	urlPic : "/index/index/pic",	// method url  return verify->pic()   
-	urlYan : "/index/index/piccheck",	// method url return 1 or 2   
+	urlInit : "/index/index/ver",	// action url  return verify->chars()    
+	urlPic : "/index/index/pic",	// action url  return verify->pic()   
+	urlYan : "/index/index/piccheck",	// action url return 1 or 2   
 	eCavas : 've',  // id of created element    
 	eIMG : 'im3',   // id   
 	eChars : 'chs'  // id   
